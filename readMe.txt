@@ -1,4 +1,4 @@
-shiro+redis¼¯³É²âÊÔ
+shiro+redisé›†æˆæµ‹è¯•
 
-ÎÊÌâ£º
-RememberMeÎŞĞ§
+é—®é¢˜
+RememberMeæ— æ•ˆï¼Œé—®é¢˜å¯èƒ½å‡ºåœ¨SessionCacheä¸­
